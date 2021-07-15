@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 
@@ -7,12 +8,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭  I’m currently working on China
-- 🌱  I’m currently learning Docker
+- 🔭  I’m currently working on `China`
+- 🌱  I’m currently learning `Docker`
 - 👯  I’m looking to collaborate on ...
-- 🤔  I’m looking for help with ...
-- 💬  Ask me about ...
-- 📫  How to reach me: ...
-- 😄  Pronouns: ...
+- 🤔  I’m looking for help with `Java`、`React`、`Python` ...
+- 💬  Ask me about `Java`
+- 📫  How to reach me: `@24Arise`
+- 😄  Pronouns: `24Arise`
 - ⚡  Fun fact: ...
 

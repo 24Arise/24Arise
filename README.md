@@ -3,7 +3,7 @@
 
 
 <!--
-**24Arise/24Arise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**𝟐𝟒𝓐𝓻𝓲𝓼𝓮/𝟐𝟒𝓐𝓻𝓲𝓼𝓮** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
